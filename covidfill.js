@@ -11,6 +11,9 @@
 // @copyright    none
 // @licence      none
 // @updateURL    https://openuserjs.org/meta/tehmang/My_Script.meta.js
+// @homepageURL  https://github.com/tehmang/covid-fill
+// @supportURL   https://github.com/tehmang/covid-fill
+// @contributionURL https://github.com/tehmang/covid-fill
 // ==/UserScript==
 
 (function() {
