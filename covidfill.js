@@ -1,9 +1,11 @@
 // ==UserScript==
+// @author tehmang
 // @name         covid form id auto fill
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  auto fill covid form id fields
-// @author       You
+// @author       Me
+// @icon         https://avatars3.githubusercontent.com/u/22746543?s=60&v=4
 // @match        https://media.interieur.gouv.fr/deplacement-covid-19/
 // @grant        none
 // @copyright    none
