@@ -6,6 +6,9 @@
 // @author       You
 // @match        https://media.interieur.gouv.fr/deplacement-covid-19/
 // @grant        none
+// @copyright    none
+// @licence      none
+// @updateURL    https://openuserjs.org/meta/tehmang/My_Script.meta.js
 // ==/UserScript==
 
 (function() {
